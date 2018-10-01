@@ -1,0 +1,23 @@
+section{
+    width: 60% solid black;
+
+
+}
+
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+    width: 14px;
+    height: 21px;
+    
+}
+td colspan"14"{
+    background: white;
+
+}
+td colspan"4"{
+    background: white;
+}
+.td colspan"6"{
+    background: yellow;
+}
